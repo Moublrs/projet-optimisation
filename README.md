@@ -14,7 +14,7 @@ Une approche Monte Carlo pour explorer l'espace de recherche.
 
 L’algorithme génétique NSGA-2 pour trouver un front de Pareto optimisé.
 
-Fonctionnalités
+Fonctionnalités:
 
 Modélisation Physique
 
@@ -24,13 +24,13 @@ Estimation des puissances mécanique et électrique requises.
 
 Analyse des courants et tensions dans les sous-stations.
 
-Simulation
+Simulation:
 
 Comparaison des performances avec et sans batterie.
 
 Gestion de l’énergie entre la batterie, la LAC et les sous-stations.
 
-Optimisation
+Optimisation:
 
 Monte Carlo : échantillonnage brut pour explorer l'espace des solutions.
 
@@ -70,7 +70,7 @@ cd <NOM_DU_DEPOT>
 Installez les dépendances requises :
 pip install numpy matplotlib deap
 
-Utilisation
+Utilisation:
 
 Exécutez le script principal pour générer les simulations et visualisations :
 
