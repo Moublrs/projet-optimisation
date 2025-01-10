@@ -1,6 +1,6 @@
-# projet-optimisation
+# Optimisation Bi-Objectif pour un Tramway Hybride LAC/Batterie
 
-Description
+Description:
 
 Ce projet vise à modéliser, analyser et optimiser les performances d’un tramway à alimentation hybride combinant une ligne aérienne de contact (LAC) et une batterie embarquée. L’objectif principal est de résoudre un problème d’optimisation bi-objectif en minimisant :
 
